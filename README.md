@@ -2,7 +2,7 @@
 
 An online store for dried fruit, nuts, tea and spices from the Fergana Valley, with a customer storefront and a store-owner admin panel. Built with **React 18, TypeScript and Vite**, no UI framework.
 
-**Live demo:** _add your deployed link here_
+**Live demo:**   https://mevazor-store.netlify.app
 
 ![Storefront](docs/screenshot-shop.png)
 
